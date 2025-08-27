@@ -3,9 +3,9 @@
 This is a CSS Mini Project that demonstrates how to build and style a webpage using vanilla CSS — no frameworks, no preprocessors, just raw CSS.
 
 ### Project Overview
-The goal of this project is to explore and showcase the power of raw CSS in creating visually appealing and responsive designs. It highlights various CSS features like:
--Pseudo-classes and pseudo-elements
--Animations / transitions
+The goal of this project is to explore and showcase the power of raw CSS in creating visually appealing and responsive designs. It highlights various CSS features like:<br>
+-Pseudo-classes and pseudo-elements<br>
+-Animations / transitions<br>
 -Custom fonts
 
 ### Key Features
